@@ -2,4 +2,4 @@
 
 URL: https://kreampresliq.github.io/Lesson1_CV/
 
- Pure  # HTML yet!
+# Pure HTML yet$
